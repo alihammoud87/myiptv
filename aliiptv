@@ -154,7 +154,7 @@ http://173.249.22.88:8000/live/solosudiotv/solosudiotv/64.ts
 http://173.249.22.88:8000/live/solosudiotv/solosudiotv/63.ts
 
 #EXTINF:-1,(AR) Bein AMC
-http://hbox.cdnss.me:80/live/easy/easy/4349.ts
+http://hbox.cdnss.me:8000/live/easy/easy/4349.ts
 #EXTINF:-1,(AR) Bein DMAX
 http://hbox.cdnss.me:80/live/easy/easy/4350.ts
 #EXTINF:-1,(AR) Bein Dream Works
@@ -170,7 +170,7 @@ http://hbox.cdnss.me:80/live/easy/easy/4355.ts
 #EXTINF:-1,(AR) bein Outdoor
 http://hbox.cdnss.me:80/live/easy/easy/4356.ts
 #EXTINF:-1,(AR) BeIN Series HD 1
-http://hbox.cdnss.me:80/live/easy/easy/4357.ts
+http://hbox.cdnss.me:8000/live/easy/easy/4357.ts
 #EXTINF:-1,(AR)BeIN Boomerang
 http://hbox.cdnss.me:80/live/easy/easy/4528.ts
 #EXTINF:-1,www.iptv4sat.com (AR) OSN Alfa Alyawm
